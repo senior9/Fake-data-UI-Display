@@ -1,0 +1,29 @@
+*{
+    box-sizing: border-box;
+}
+.user-class {
+    border: 1px solid brown;
+    display: inline-block;
+    justify-content: space-between;
+    margin: 20px;
+    padding:20px;
+    
+}
+.user-class img {
+justify-items: center;
+justify-content: center;
+
+}
+.user-class h4,h3,h5,p{
+    color:darkmagenta;
+    margin:5px;
+    border: 1px solid black;
+
+}
+.user-class button {
+    background-color:darkorange;
+    width: 40%;
+    height:50px;
+    font-weight:900;
+    color:rgb(255, 255, 255)
+}

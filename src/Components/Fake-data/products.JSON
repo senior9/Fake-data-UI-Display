@@ -1,0 +1,103 @@
+[
+  {
+    "first_name": "Nicholas",
+    "email": "n_a99@outlook.com",
+    "model_year": "1999",
+    "price": "162.99",
+    "smiley": "🥰",
+    "city": "Belzoni",
+    "company": "Health Care, Inc.",
+    "image":"https://randomuser.me/api/portraits/women/71.jpg"
+  },
+  {
+    "first_name": "Michael",
+    "email": "m.stewart98@outlook.com",
+    "model_year": "2018",
+    "price": "198",
+    "smiley": "😇",
+    "city": "Phoenix",
+    "company": "The Industrial Engineering Company",
+    "image":"https://randomuser.me/api/portraits/women/13.jpg"
+  },
+  {
+    "first_name": "Ava",
+    "email": "africhardson@aol.com",
+    "model_year": "2000",
+    "price": "118.99",
+    "smiley": "😂",
+    "city": "Fredonia",
+    "company": "Web Design, LLC",
+    "image":"https://randomuser.me/api/portraits/women/89.jpg"
+  },
+  {
+    "first_name": "Matthew",
+    "email": "m_c_harris@yahoo.com",
+    "model_year": "2006",
+    "price": "83.95",
+    "smiley": "😍",
+    "city": "Paris",
+    "company": "The Internet Company",
+    "image":"https://randomuser.me/api/portraits/women/32.jpg"
+  },
+  {
+    "first_name": "Sophia",
+    "email": "s.davis@ymail.com",
+    "model_year": "1993",
+    "price": "20.99",
+    "smiley": "😱",
+    "city": "Carlotta",
+    "company": "International Trade, Ltd.",
+    "image":"https://randomuser.me/api/portraits/women/19.jpg"
+  },
+  {
+    "first_name": "Jasmine",
+    "email": "jasmine.rodriguez@ymail.com",
+    "model_year": "2015",
+    "price": "21.95",
+    "smiley": "😝",
+    "city": "Santee",
+    "company": "Environmental Services, Incorporated",
+    "image":"https://randomuser.me/api/portraits/women/74.jpg"
+    
+  },
+  {
+    "first_name": "Ryan",
+    "email": "ryan31@yahoo.com",
+    "model_year": "1994",
+    "price": "48.95",
+    "smiley": "😉",
+    "city": "Dayton",
+    "company": "Construction, Ltd.",
+    "image":"https://randomuser.me/api/portraits/women/63.jpg"
+  },
+  {
+    "first_name": "Nathan",
+    "email": "nathan@yahoo.com",
+    "model_year": "2005",
+    "price": "69.95",
+    "smiley": "😛",
+    "city": "Greensboro",
+    "company": "Computer Hardware Corp.",
+    "image":"https://randomuser.me/api/portraits/women/57.jpg"
+  },
+  {
+    "first_name": "Julian",
+    "email": "j_wilson69@gmail.com",
+    "model_year": "2002",
+    "price": "127.95",
+    "smiley": "☺️",
+    "city": "Cedarhurst",
+    "company": "The Biotechnology Company",
+    "image":"https://randomuser.me/api/portraits/women/10.jpg"
+  },
+  {
+    "first_name": "Sophia",
+    "email": "sophia_r_ross@ymail.com",
+    "model_year": "2009",
+    "price": "34.99",
+    "smiley": "☹️",
+    "city": "Grosse Tete",
+    "company": "Accounting, Incorporated",
+    "image":"https://randomuser.me/api/portraits/women/93.jpg"
+  }
+]

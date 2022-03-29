@@ -1,0 +1,9 @@
+.cart-item{
+    border: 1px solid gray;
+    margin-left: 0px auto;
+    display: inline-block;
+}
+.cart-item td {
+    border: 1px solid gray;
+    color: tomato;
+}
